@@ -8,7 +8,7 @@ while True:
 	jj = input("  Username: ")
 	hh = input("  Passowrd: ")
 	if h == hh and j == jj :
-		print("\033[32m Afarin \033[0;1m:)")
+		print("\033[32m Afrin \033[0;1m:)")
 		print(50*"-")
 		time.sleep(1)
 		os.system("python2 .0.py")
